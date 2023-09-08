@@ -75,7 +75,7 @@ const getRandomImage = (imageArray) => {
       </div>
     </div>
     <div class="card">
-      <button type="button" @click="playGame">เปา........ยิ้งฉุบบบ</button>
+      <button type="button" @click="playGame"> เกม เปา........ยิ้งฉุบบบ</button>
       <button type="button" @click="resetScores">รีเซตคะแนน</button>
     </div>
   </div>
